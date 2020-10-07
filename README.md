@@ -2,7 +2,7 @@
 
 Codewars is a great place to practice breaking down problems into solvable chunks. We have selected a few to get going with.
 
-## Challenges to have ago at first
+## Challenges to have a go at first
 
 - [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004/train/javascript)
 - [Even Or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/javascript)
