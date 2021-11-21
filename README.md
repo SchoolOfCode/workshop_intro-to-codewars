@@ -1,6 +1,6 @@
 # Codewars
 
-Codewars is a great place to practice breaking down problems into solvable chunks. We have selected a few to get going with.
+Codewars is a great place to practice breaking down problems into solvable chunks and articulating your problem-solving in pairs. We've selected a few to get you started.
 
 ## Challenges to have a go at first
 
@@ -17,4 +17,4 @@ Codewars is a great place to practice breaking down problems into solvable chunk
 
 ## Next steps
 
-Explore codewars and keep practicing. Most of the challenges are community generated so not all of them are perfect, sort by popularity and pick ones that are `8 kyu`. When you've had enough of 8s, try your hand at some popular 7s. Happy coding!
+Explore Codewars and keep practicing. Most of the challenges are community generated, so not all of them are perfect. We'd advise that you sort by popularity and pick ones that are `8 kyu` to start with. When you've had enough of 8s, try your hand at some popular 7s. Happy coding!
