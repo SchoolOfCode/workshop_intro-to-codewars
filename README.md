@@ -27,6 +27,5 @@ Katas are ranked in difficulty, and the numbers work in reverse - level 8 (8 kyu
 
 Explore Codewars and keep practicing. Most of the challenges are community generated, so not all of them are perfect. We'd advise that you sort by popularity and pick ones that are `8 kyu` to start with. When you've had enough of 8s, try your hand at some popular 7s. Happy coding!
 
-👉 You can use the videos in [this playlist](https://vimeopro.com/schoolofcode/codewars) to review how we use Codewars during the course. These explain the School of Code way of tackling Codewars katas that gets you in the habit of breaking down the problems, writing a plan, and articulating to practice for interviews.
+👉 You can use the videos in [this playlist](https://drive.google.com/drive/folders/1sck6rEJlyzGaFlsGlfnp8sF-ocKFoMRy?usp=share_link) to review how we use Codewars during the course. These explain the School of Code way of tackling Codewars katas that gets you in the habit of breaking down the problems, writing a plan, and articulating to practice for interviews.
 
-🔒 The password for the video page is the word bootcamp.
