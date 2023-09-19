@@ -4,7 +4,21 @@ Codewars is a great place to practice breaking down problems into solvable chunk
 
 Katas are ranked in difficulty, and the numbers work in reverse - level 8 (8 kyu) katas are the easiest, while level 1 (1 kyu) are the most difficult. For each kata you complete you get honor points toward levelling up your own rank, and you can also see your position on a leaderboard for some healthy competition - we'll have more about that soon!
 
-👉 Sign up to [Codewars](https://www.codewars.com/join) using your Github account. You'll need to select JavaScript and solve your first kata before you can finish signing up.
+👉 Review the Codewars videos in [this playlist](https://drive.google.com/drive/folders/1sck6rEJlyzGaFlsGlfnp8sF-ocKFoMRy?usp=share_link) to learn the School of Code method for completing Codewars katas. 
+
+These videos explain how to:
+
+- Break down problems
+- Write a plan
+- Practice articulating your thought process
+
+This is great preparation for interviews! 
+
+You don't need to watch every video, just enough to understand the recommended technique. 
+
+Practicing this way will help you build the habit of systematic problem-solving.
+
+👉 If you've not already done so, sign up to [Codewars](https://www.codewars.com/join) using your Github account. You'll need to select JavaScript and solve your first kata before you can finish signing up.
 
 ## Challenges to have a go at first
 
@@ -27,5 +41,4 @@ Katas are ranked in difficulty, and the numbers work in reverse - level 8 (8 kyu
 
 Explore Codewars and keep practicing. Most of the challenges are community generated, so not all of them are perfect. We'd advise that you sort by popularity and pick ones that are `8 kyu` to start with. When you've had enough of 8s, try your hand at some popular 7s. Happy coding!
 
-👉 You can use the videos in [this playlist](https://drive.google.com/drive/folders/1sck6rEJlyzGaFlsGlfnp8sF-ocKFoMRy?usp=share_link) to review how we use Codewars during the course. These explain the School of Code way of tackling Codewars katas that gets you in the habit of breaking down the problems, writing a plan, and articulating to practice for interviews.
 
