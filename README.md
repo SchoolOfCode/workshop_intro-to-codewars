@@ -4,9 +4,7 @@ Codewars is a great place to practice breaking down problems into solvable chunk
 
 Katas are ranked in difficulty, and the numbers work in reverse - level 8 (8 kyu) katas are the easiest, while level 1 (1 kyu) are the most difficult. For each kata you complete you get honor points toward levelling up your own rank, and you can also see your position on a leaderboard for some healthy competition - we'll have more about that soon!
 
-👉 Review the Codewars videos in [this playlist](https://drive.google.com/drive/folders/1sck6rEJlyzGaFlsGlfnp8sF-ocKFoMRy?usp=share_link) to learn the School of Code method for completing Codewars katas. 
-
-These videos explain how to:
+You should always aim to:
 
 - Break down problems
 - Write a plan
@@ -14,7 +12,7 @@ These videos explain how to:
 
 This is great preparation for interviews! 
 
-You don't need to watch every video, just enough to understand the recommended technique. 
+We have plenty of video examples in the School of Code library. You don't need to watch every video, just enough to understand the recommended technique. Feel free to search for or ask for examples.
 
 Practicing this way will help you build the habit of systematic problem-solving.
 
